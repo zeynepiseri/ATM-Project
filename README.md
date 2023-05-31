@@ -1,13 +1,16 @@
-ATM-Project
+PROJE TANITIMI
 
-![Ekran Görüntüsü (398)](https://github.com/zeynepiseri/ATM-Project/assets/110569853/5a0aec81-2ef3-4df5-a9e5-a25688df5507)
+1- Projenin Amacı
 
-![Ekran Görüntüsü (399)](https://github.com/zeynepiseri/ATM-Project/assets/110569853/dea4cfd8-641a-47e3-9766-fdab927b8eeb)
+Bu ATM projesi C# ve SQL öğrenme aşamasında öğrendiklerimi test etmek amacıyla oluşturdu. 
 
-![Ekran Görüntüsü (400)](https://github.com/zeynepiseri/ATM-Project/assets/110569853/7e980570-4d8e-4ff7-8039-a080e1b53bbd)
+2- Projenin İçeriği
 
-![Ekran Görüntüsü (402)](https://github.com/zeynepiseri/ATM-Project/assets/110569853/fa8ba14f-0f15-446f-a925-f499fc5a2ba0)
+Proje kullanıcının şifresi ile giriş yaptıktan sonra ATM üzerinden yapacağı işlemleri kolaylıkla yapabilmesini sağlayan bir arayüz ile tasarladı. Şifrenin ya da proje içerisinde kullanılacak olan diğer bilgilerin doğruluğu sql sever'dan çekilen veriler ile olacak. ATM üzerinden yapılan para çekme - para yatırma işlemlerinde hesapta ki bakiye miktarı da azalıp artacak. Aynı zamanda ATM üzerinden şifre, telefon numarası gibi müşterinin kişisel bilgileri de değiştirilebilir.
 
-![Ekran Görüntüsü (404)](https://github.com/zeynepiseri/ATM-Project/assets/110569853/e975f9fc-71a4-4122-b667-6ba443567bb9)
+![Ekran Görüntüsü (398)](https://github.com/zeynepiseri/ATM-Project/assets/110569853/9c542d21-3cb8-4933-a018-e685f4cfd328)
 
-![Ekran Görüntüsü (403)](https://github.com/zeynepiseri/ATM-Project/assets/110569853/ad634dad-6092-48ff-a429-3b430eed2979)
+![Ekran Görüntüsü (399)](https://github.com/zeynepiseri/ATM-Project/assets/110569853/cdf0a550-c531-42d4-bbca-76aadc5533aa)
+![Ekran Görüntüsü (400)](https://github.com/zeynepiseri/ATM-Project/assets/110569853/d3710e14-e623-4757-af05-c58b757d3eb5)
+![Ekran Görüntüsü (402)](https://github.com/zeynepiseri/ATM-Project/assets/110569853/d609137a-cc70-4ed4-9a5d-86331e21e26f)
+![Ekran Görüntüsü (404)](https://github.com/zeynepiseri/ATM-Project/assets/110569853/2d59d9d0-ff42-44d8-9731-6a56660ae65c)
