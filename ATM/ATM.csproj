@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{84C41983-EBCC-463E-A6CD-12D1BA7827A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ATM</RootNamespace>
+    <AssemblyName>ATM</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ATMDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ATMDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="FrmAnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAnaSayfa.Designer.cs">
+      <DependentUpon>FrmAnaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBakSifre1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBakSifre1.Designer.cs">
+      <DependentUpon>FrmBakSifre1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBakSifre2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBakSifre2.Designer.cs">
+      <DependentUpon>FrmBakSifre2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBakSifre3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBakSifre3.Designer.cs">
+      <DependentUpon>FrmBakSifre3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBakSifre4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBakSifre4.Designer.cs">
+      <DependentUpon>FrmBakSifre4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBakSifre5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBakSifre5.Designer.cs">
+      <DependentUpon>FrmBakSifre5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBasvuru1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBasvuru1.Designer.cs">
+      <DependentUpon>FrmBasvuru1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKartsızBasvuru1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKartsızBasvuru1.Designer.cs">
+      <DependentUpon>FrmKartsızBasvuru1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKartsızBasvuru2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKartsızBasvuru2.Designer.cs">
+      <DependentUpon>FrmKartsızBasvuru2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBasvuru4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBasvuru4.Designer.cs">
+      <DependentUpon>FrmBasvuru4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKartIade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKartIade.Designer.cs">
+      <DependentUpon>FrmKartIade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBirKrediBasvuru1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBirKrediBasvuru1.Designer.cs">
+      <DependentUpon>FrmBirKrediBasvuru1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBirTükKrediBasvuru3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBirTükKrediBasvuru3.Designer.cs">
+      <DependentUpon>FrmBirTükKrediBasvuru3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBirKrediBasvuru4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBirKrediBasvuru4.Designer.cs">
+      <DependentUpon>FrmBirKrediBasvuru4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBirTükKrediBasvuru2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBirTükKrediBasvuru2.Designer.cs">
+      <DependentUpon>FrmBirTükKrediBasvuru2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmParaCekme1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmParaCekme1.Designer.cs">
+      <DependentUpon>FrmParaCekme1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmParaCekme2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmParaCekme2.Designer.cs">
+      <DependentUpon>FrmParaCekme2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmParaCekme3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmParaCekme3.Designer.cs">
+      <DependentUpon>FrmParaCekme3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmParaCekme4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmParaCekme4.Designer.cs">
+      <DependentUpon>FrmParaCekme4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmParaYatırma1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmParaYatırma1.Designer.cs">
+      <DependentUpon>FrmParaYatırma1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmParaYatırma2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmParaYatırma2.Designer.cs">
+      <DependentUpon>FrmParaYatırma2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmParaYatırma3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmParaYatırma3.Designer.cs">
+      <DependentUpon>FrmParaYatırma3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmParaYatırma4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmParaYatırma4.Designer.cs">
+      <DependentUpon>FrmParaYatırma4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSifreUnutma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSifreUnutma.Designer.cs">
+      <DependentUpon>FrmSifreUnutma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSifreATM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSifreATM.Designer.cs">
+      <DependentUpon>FrmSifreATM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmİslemlerAna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmİslemlerAna.Designer.cs">
+      <DependentUpon>FrmİslemlerAna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlBaglantisi.cs" />
+    <EmbeddedResource Include="FrmAnaSayfa.resx">
+      <DependentUpon>FrmAnaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBakSifre1.resx">
+      <DependentUpon>FrmBakSifre1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBakSifre2.resx">
+      <DependentUpon>FrmBakSifre2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBakSifre3.resx">
+      <DependentUpon>FrmBakSifre3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBakSifre4.resx">
+      <DependentUpon>FrmBakSifre4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBakSifre5.resx">
+      <DependentUpon>FrmBakSifre5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBasvuru1.resx">
+      <DependentUpon>FrmBasvuru1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKartsızBasvuru1.resx">
+      <DependentUpon>FrmKartsızBasvuru1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKartsızBasvuru2.resx">
+      <DependentUpon>FrmKartsızBasvuru2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBasvuru4.resx">
+      <DependentUpon>FrmBasvuru4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKartIade.resx">
+      <DependentUpon>FrmKartIade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBirKrediBasvuru1.resx">
+      <DependentUpon>FrmBirKrediBasvuru1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBirTükKrediBasvuru3.resx">
+      <DependentUpon>FrmBirTükKrediBasvuru3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBirKrediBasvuru4.resx">
+      <DependentUpon>FrmBirKrediBasvuru4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBirTükKrediBasvuru2.resx">
+      <DependentUpon>FrmBirTükKrediBasvuru2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmParaCekme1.resx">
+      <DependentUpon>FrmParaCekme1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmParaCekme2.resx">
+      <DependentUpon>FrmParaCekme2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmParaCekme3.resx">
+      <DependentUpon>FrmParaCekme3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmParaCekme4.resx">
+      <DependentUpon>FrmParaCekme4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmParaYatırma1.resx">
+      <DependentUpon>FrmParaYatırma1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmParaYatırma2.resx">
+      <DependentUpon>FrmParaYatırma2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmParaYatırma3.resx">
+      <DependentUpon>FrmParaYatırma3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmParaYatırma4.resx">
+      <DependentUpon>FrmParaYatırma4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSifreUnutma.resx">
+      <DependentUpon>FrmSifreUnutma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSifreATM.resx">
+      <DependentUpon>FrmSifreATM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmİslemlerAna.resx">
+      <DependentUpon>FrmİslemlerAna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ATMDataSet.xsc">
+      <DependentUpon>ATMDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ATMDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ATMDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ATMDataSet.xss">
+      <DependentUpon>ATMDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sol ok.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

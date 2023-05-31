@@ -1,0 +1,109 @@
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.FrmSifreUnutma.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.FrmAnaSayfa.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.FrmSifreATM.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.FrmParaCekme1.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.FrmParaCekme2.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.FrmParaCekme3.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.FrmİslemlerAna.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.FrmParaCekme4.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.FrmParaYatırma1.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.FrmParaYatırma2.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM\ATM\ATM\obj\Debug\ATM.FrmParaYatırma3.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\bin\Debug\ATM.exe.config
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\bin\Debug\ATM.exe
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\bin\Debug\ATM.pdb
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.FrmAnaSayfa.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.FrmParaCekme1.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.FrmParaCekme2.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.FrmParaCekme3.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.FrmParaCekme4.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.FrmParaYatırma1.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.FrmParaYatırma2.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.FrmParaYatırma3.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.FrmSifreUnutma.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.FrmSifreATM.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.FrmİslemlerAna.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.exe
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.pdb
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.FrmKartIade.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.FrmParaYatırma4.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.FrmParaYatırma5.resources
+C:\Users\iseri\OneDrive\Masaüstü\ATM 2\ATM\obj\Debug\ATM.FrmParaYatırma6.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\bin\Debug\ATM.exe.config
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\bin\Debug\ATM.exe
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\bin\Debug\ATM.pdb
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmAnaSayfa.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmKartIade.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmParaCekme1.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmParaCekme2.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmParaCekme3.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmParaCekme4.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmParaYatırma1.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmParaYatırma2.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmParaYatırma3.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmParaYatırma4.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmSifreUnutma.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmSifreATM.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmİslemlerAna.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.exe
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.pdb
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmBasvuru1.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmBasvuru2.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmBasvuru3.resources
+C:\Users\iseri\OneDrive\Masaüstü\ıhj\ATM\obj\Debug\ATM.FrmBasvuru4.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\bin\Debug\ATM.exe.config
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\bin\Debug\ATM.exe
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\bin\Debug\ATM.pdb
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmAnaSayfa.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmBasvuru1.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmKartsızBasvuru1.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmKartsızBasvuru2.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmBasvuru4.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmKartIade.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmBirKrediBasvuru1.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmBirTükKrediBasvuru3.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmBirKrediBasvuru4.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmBirTükKrediBasvuru2.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmParaCekme1.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmParaCekme2.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmParaCekme3.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmParaCekme4.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmParaYatırma1.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmParaYatırma2.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmParaYatırma3.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmParaYatırma4.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmSifreUnutma.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmSifreATM.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmİslemlerAna.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.exe
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.pdb
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmBakSifre1.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmBakSifre2.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmBakSifre3.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmBakSifre4.resources
+C:\Users\iseri\OneDrive\Masaüstü\EĞİTİM\YAZILIM\C# PROJE\ATM 2\ATM\obj\Debug\ATM.FrmBakSifre5.resources
